@@ -34,7 +34,7 @@ listings.csv
 
 reviews.csv
 
-calendar.csv (if available)
+
 
 Processed/cleaned files will be stored in:
 
